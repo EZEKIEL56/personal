@@ -71,7 +71,7 @@
 
     document.addEventListener("DOMContentLoaded", function() {
         const typed = new Typed('.multiple-text', {
-            strings: ['Developer', 'Full-stack developer','Network Engineer','Video Edictor','Graphics Designer','Social Media Marketer','Freelancer'],
+            strings: ['Developer', 'Full-stack developer','Network Engineer','Video Editor','Graphics Designer','Social Media Marketer','Freelancer'],
             typeSpeed: 60,
             backSpeed: 60,
             backDelay: 1000,
